@@ -1,0 +1,39 @@
+_repo: Mammals-of-Washington-Volume-2-University-of-Kansas-Publications-Museum-of-Natural-History_53582
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dalquest, Walter Woelber
+    alias: Dalquest, Walter W. (Walter Woelber)
+    birthdate: 1917
+    deathdate: 2000
+    gutenberg_agent_id: '34468'
+    url: http://www.gutenberg.org/2009/agents/34468
+  editors:
+  - agent_name: Hall, E. Raymond (Eugene Raymond)
+    alias: Hall, Eugene Raymond
+    birthdate: 1902
+    deathdate: 1986
+    gutenberg_agent_id: '26108'
+    url: http://www.gutenberg.org/2009/agents/26108
+  - agent_name: Hoffmeister, Donald Frederick
+    alias: Hoffmeister, Donald F.
+    birthdate: 1916
+    gutenberg_agent_id: '37477'
+    url: http://www.gutenberg.org/2009/agents/37477
+description: ''
+gutenberg_issued: '2016-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mammals -- Washington (State)'
+- !lcc 'QH'
+- GITenberg
+title: 'Mammals of Washington, Volume 2
+
+  University of Kansas Publications Museum of Natural History'
+url: http://www.gutenberg.org/ebooks/53582
